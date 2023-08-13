@@ -1,5 +1,5 @@
 
-# Challenge, 2 step junior front-end developer
+# Entrevista tecnica, segunda etapa front-end developer
 
 <img src="https://oneblue.io/wp-content/uploads/2022/03/oneblue-500-01-01.png" width="50%" />
 
